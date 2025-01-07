@@ -1,1 +1,1 @@
-print("im hungry")
+python=input("you are hungry")
