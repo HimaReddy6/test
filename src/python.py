@@ -3,4 +3,4 @@ python=input("you are hungry")
       thirsty=input("im thirsty")
       print("drink water")
       print("eat fries")
-      
+      print("eat apple")
