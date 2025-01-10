@@ -4,5 +4,5 @@ python=input("you are hungry")
       print("drink water")
       print("eat fries")
       print("eat apple")
-      print("eat mango")
+      
       
